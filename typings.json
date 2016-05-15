@@ -1,5 +1,6 @@
 {
   "name": "inversify",
+  "main": "type_definitions/inversify/inversify.d.ts",
   "dependencies": {},
   "devDependencies": {},
   "ambientDependencies": {
